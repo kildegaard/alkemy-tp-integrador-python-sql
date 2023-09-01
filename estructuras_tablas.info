@@ -1,0 +1,5 @@
+(0, 'customer_id', 'TEXT', 0, None, 1)
+(1, 'customer_unique_id', 'TEXT', 0, None, 0)
+(2, 'customer_zip_code_prefix', 'INTEGER', 0, None, 0)
+(3, 'customer_city', 'TEXT', 0, None, 0)
+(4, 'customer_state', 'TEXT', 0, None, 0)

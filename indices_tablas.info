@@ -1,0 +1,10 @@
+Índices de la tabla 'customers':
+(0, 'sqlite_autoindex_customers_1', 1, 'pk', 0)
+Índices de la tabla 'order_items':
+(0, 'sqlite_autoindex_order_items_1', 1, 'pk', 0)
+Índices de la tabla 'order_payments':
+(0, 'sqlite_autoindex_order_payments_1', 1, 'pk', 0)
+Índices de la tabla 'orders':
+(0, 'sqlite_autoindex_orders_1', 1, 'pk', 0)
+Índices de la tabla 'products':
+(0, 'sqlite_autoindex_products_1', 1, 'pk', 0)
